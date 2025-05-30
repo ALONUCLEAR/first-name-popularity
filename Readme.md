@@ -1,4 +1,4 @@
-This is an application to see the popularity of name based on data from the central institue for statistics in Israel between 1948 to 2023.
+This is an application to see the popularity of name based on data from [The Central Bureau of Statistics in Israel](https://www.cbs.gov.il/he/Pages/search/TableMaps.aspx?CbsSubject=%D7%A9%D7%9E%D7%95%D7%AA) between 1948 to 2023.
 Currently it only concerns jewish female names, and only the first letter, cause that what I cared about in the discssion that prompted this project, but it should be very easy to use this as a tempalte for any other stat you might want to know regarding Israeli naming data.
 
 The data is ofcourse in Hebrew but you can translate if you need to use the data for some reason even though you don't speak the language.
